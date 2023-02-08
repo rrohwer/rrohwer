@@ -2,7 +2,7 @@
 I research microbial ecology and evolution in a 20-year freshwater lake time series.  
 Check out my github repos to help you with your own freshwater microbial ecology research:  
 * [TaxAss](www.github.com/mcmahonlab/taxass): Improve your 16S analysis with freshwater-specific taxonomy assignments.  
-* [limony](www.github.com/rrohwer/limony): Explore a 20-year, 500-sample freshwater time series yourself with my date release package.  
+* [limony](www.github.com/rrohwer/limony): Explore a 20-year, 500-sample freshwater time series yourself with my data release package.  
 
 Learn more about me and my work from my webpage: [robinrohwer.com](robinrohwer.com)
 <!--
